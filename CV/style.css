@@ -1,0 +1,84 @@
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    }
+
+.coloredBar {
+
+background-color: rgb(81, 204, 118);
+height:120px;
+width:auto;
+padding: 20px;
+margin: -10px ;
+margin-bottom: 10px;
+}
+
+.nav-item {
+    float:left;
+    margin: 20px;
+    margin-top: 20px;
+    
+    
+
+}
+
+.nav-link {
+    font-size: 30px;
+    font-weight:bold;
+    color: rgb(150, 233, 191);
+    text-decoration: none;  
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.nav-link:hover {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(255, 255, 255);
+    text-decoration:underline;  
+     
+}
+
+.menu {
+
+    float: left;
+    margin-left: 20px;
+    
+    
+    
+}
+
+.photoprofil {
+
+    float: left;
+    
+}
+
+.PP {
+
+    height: 120px;
+    width: 120px;
+}
+
+.contenu1 {
+
+    height: auto;
+    width: 40vw;
+    margin-top: 11px;
+    margin-left: 17px;
+    border: solid 3px rgb(81, 204, 118);
+    border-radius:1%;
+
+}
+
+.contenu1:hover {
+
+    background-color: rgba(81, 204, 118, 0.226);
+}
+
+.description {
+    margin-left: 10px;
+}
+
