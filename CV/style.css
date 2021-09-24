@@ -15,10 +15,24 @@ margin-bottom: 10px;
 }
 
 
+html {
+
+    width: 100%;
+    height: 100%;
+   
+   }
+   
+   body {
+   
+       width: 100%;
+       height: 100%;
+      
+      }
+
 .aboutBar {
 
     background-color: rgba(81, 204, 118, 0.315);
-    height:100vh;
+    height:100%;
     width:250px;
     padding: 20px;
 
@@ -39,7 +53,7 @@ margin-bottom: 10px;
 }
 
 .nav-link {
-    font-size: 30px;
+    font-size: 25px;
     font-weight:bold;
     color: rgb(150, 233, 191);
     text-decoration: none;  
@@ -48,7 +62,7 @@ margin-bottom: 10px;
 }
 
 .nav-link:hover {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     text-decoration: underline;
     color: rgb(255, 255, 255);
@@ -57,7 +71,7 @@ margin-bottom: 10px;
 }
 
 .nav-linkCurrent {
-    font-size: 30px;
+    font-size: 25px;
     font-weight:bold;
     color: rgb(255, 255, 255);
     text-decoration: none;  
@@ -93,7 +107,7 @@ margin-bottom: 10px;
 .contenu1 {
 
     height: auto;
-    width: 40vw;
+    width: 50vw;
     margin-top: 11px;
     margin-left: 17px;
     border: solid 3px rgb(81, 204, 118);
@@ -132,12 +146,15 @@ margin-bottom: 10px;
 .colone1 {
 
     float: left;
+    height: 100vh;
+    
 }
 
 .colone2 {
 
     float: left;
     margin-left: 15px;
+   
 
 }
 
