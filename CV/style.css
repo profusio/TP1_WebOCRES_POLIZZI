@@ -128,6 +128,7 @@ html {
     margin : 5px;
     margin-bottom: 15px;
     
+    
     border: solid 3px rgb(81, 204, 118);
     
     border-radius:1%;
@@ -154,14 +155,12 @@ html {
 
     float: left;
     margin-left: 15px;
+
    
 
 }
 
-.colone3 {
 
-float: right;
-}
 
 .animation {
     
